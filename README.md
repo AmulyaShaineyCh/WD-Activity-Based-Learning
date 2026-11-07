@@ -3,7 +3,7 @@ This Repository contain all three activities of Web Development
 
 NAME: CH AMULYA SHAINEY
 
-BRANCHA: CSE(AL/ML)
+BRANCH: CSE(AL/ML)
 
 SECTION: 7
 
